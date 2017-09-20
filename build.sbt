@@ -1,4 +1,4 @@
-name := "ScratchPad"
+name := "BingoRangeCalculator"
 
 version := "0.1"
 
